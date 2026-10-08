@@ -2,8 +2,8 @@ import { Route, Routes } from 'react-router-dom'
 import CenteredLayout from './layouts/CenteredLayout'
 import Home from './pages/Home'
 import Menu from './pages/Menu'
-import Header from './componets/Header';
-import Footer from './componets/Footer';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 export default function App() {
 
